@@ -1,0 +1,11 @@
+.sub-container{
+    position: absolute;
+    top: 7vw;
+    left: 21vw;
+    min-width: 55%;
+    max-width: 70%;
+}
+
+.sub-container button{
+    top: 8px;
+}
