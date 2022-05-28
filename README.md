@@ -1,14 +1,7 @@
 # react_dinamic_validate_form
-## Preview
-<a href="https://react-dinamic-validate-form.vercel.app">
- a<img src="https://media0.giphy.com/media/5ABGt7KDXJ62zg7oI0/giphy.gif?cid=790b761123aba84c737efe59273d3d75b3dbaef458bf13a4&rid=giphy.gif&ct=s" />
-</a>
+## 
+[<img src="https://media0.giphy.com/media/5ABGt7KDXJ62zg7oI0/giphy.gif?cid=790b761123aba84c737efe59273d3d75b3dbaef458bf13a4&rid=giphy.gif&ct=s" />](https://react-dinamic-validate-form.vercel.app/)
 
-<a href="https://react-dinamic-validate-form.vercel.app"><img src="https://media0.giphy.com/media/5ABGt7KDXJ62zg7oI0/giphy.gif?cid=790b761123aba84c737efe59273d3d75b3dbaef458bf13a4&rid=giphy.gif&ct=s" /></a>
-
-[![name](https://media0.giphy.com/media/5ABGt7KDXJ62zg7oI0/giphy.gif?cid=790b761123aba84c737efe59273d3d75b3dbaef458bf13a4&rid=giphy.gif&ct=s)](https://react-dinamic-validate-form.vercel.app)
-
-[<img alt="alt_text" width="40px" src="https://media0.giphy.com/media/5ABGt7KDXJ62zg7oI0/giphy.gif?cid=790b761123aba84c737efe59273d3d75b3dbaef458bf13a4&rid=giphy.gif&ct=s" />](ttps://react-dinamic-validate-form.vercel.app)
 
 ## Getting Started
 
