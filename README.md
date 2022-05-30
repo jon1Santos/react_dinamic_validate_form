@@ -9,10 +9,7 @@
     <Input label="Email" typeInput="text" validation={validate_email}/>
  </Form>
 ```
-
-##
-
-* Add a new input into a Form component
+* Adding a new input in the form component
 
 ![image](https://user-images.githubusercontent.com/42220755/168334515-c40adb82-4957-4446-bb74-919d80ad1e91.png)
 ```javascript
